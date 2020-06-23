@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "edunomics-intern",
+    "public": "build",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
