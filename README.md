@@ -7,4 +7,4 @@ Return number of bounces and an array of coordinates that can be used to plot a 
 An API which will return result of past calculations.(For storing calculations use json file instead of any database). 
 
 ## Please refer image for more information
-[Ball image](./images/image.jpg)
+[Ball image](./image.jpg)
